@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Volumes/MC/Android/workspace/ImoocPush/PushSDK/assets"/><source path="/Volumes/MC/Android/workspace/ImoocPush/PushSDK/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Volumes/MC/Android/workspace/ImoocPush/PushSDK/build-types/debug/assets"/></dataSet></merger>
